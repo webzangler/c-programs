@@ -219,8 +219,7 @@ void search()
           
 }  
   
-void display()  
-{  
+void display(){  
     struct node *ptr;  
     ptr=head;  
     if(head == NULL)  
